@@ -1,0 +1,13 @@
+
+Pending zkApp Transaction
+Tx Hash: 	CkpYd8pimFcwACkvk6JrhUeGNxVrP8jHVRNtj1pK7mKX6NxsJ6a4s
+Memo: 	E4YM2vTHhWEg66xpj52JErHUBU4pZ1yageL4TVDDpTTSsv8mK6YaH
+Fee Payer Key: 	B62qrYSPv1JTfACLTCW5ReoxTafKHHUiafNDPcaEevkwVP6Uc8aL83N
+Fee Payer Fee: 	0.100000000
+Count Other Accounts: 	1
+Other Accounts Public Keys: 	
+B62qrYSPv1JTfACLTCW5ReoxTafKHHUiafNDPcaEevkwVP6Uc8aL83N
+Balance Change: Positive 0.000000000
+Increment Nonce: False
+Fee Payer Raw: 	Toggle raw data
+Other Accounts Raw: 	Toggle raw data 
