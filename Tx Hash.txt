@@ -1,3 +1,4 @@
+https://berkeley.minaexplorer.com/transaction/CkpYd8pimFcwACkvk6JrhUeGNxVrP8jHVRNtj1pK7mKX6NxsJ6a4s
 
 Pending zkApp Transaction
 Tx Hash: 	CkpYd8pimFcwACkvk6JrhUeGNxVrP8jHVRNtj1pK7mKX6NxsJ6a4s
